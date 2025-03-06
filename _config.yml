@@ -2,3 +2,6 @@ title: Sarah Cole
 description: Portfolio and Blog
 theme: jekyll-theme-minimal
 show_downloads: true
+
+github:
+  zip_url: https://scole024.github.io/the-mead-hall/publications/index.html
