@@ -1,3 +1,4 @@
 title: Sarah Cole
 description: Portfolio and Blog
-remote_theme: pages-themes/minimal@v0.2.0
+theme: jekyll-theme-minimal
+show_downloads: true
