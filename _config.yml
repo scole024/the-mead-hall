@@ -4,4 +4,6 @@ theme: jekyll-theme-minimal
 show_downloads: true
 
 github:
-  zip_url: https://scole024.github.io/the-mead-hall/publications/index.html
+  pub_url: https://scole024.github.io/the-mead-hall/publications/index.html
+  viz_url: https://scole024.github.io/the-mead-hall/visualizations/index.html
+  blog_url: https://scole024.github.io/the-mead-hall/posts/index.html
