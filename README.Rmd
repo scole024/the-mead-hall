@@ -34,3 +34,14 @@ And because the [fontawesome](https://rstudio.github.io/fontawesome/articles/ico
 ### Look upon my works ye mighty and despair!
 
 For they are mostly no longer funded.
+
+
+
+**Free tip of the day, for anyone wanting to use GitHub Pages and RMarkdown:** you can easily convert the Rmd documents to md documents by including the following "output: github-document" at the top of the document, like so:
+
+```{r github pages, eval=FALSE, echo=TRUE}
+---
+title: "Insert fun title here!"
+output: github-document
+  
+```

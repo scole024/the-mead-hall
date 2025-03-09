@@ -54,3 +54,14 @@ style="width:1.25em;height:1em" />
 ### Look upon my works ye mighty and despair!
 
 For they are mostly no longer funded.
+
+**Free tip of the day, for anyone wanting to use GitHub Pages and
+RMarkdown:** you can easily convert the Rmd documents to md documents by
+including the following “output: github-document” at the top of the
+document, like so:
+
+``` r
+---
+title: "Insert fun title here!"
+output: github-document
+```
