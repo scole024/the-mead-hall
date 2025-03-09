@@ -1,6 +1,6 @@
 ---
 title: "The Mead Hall"
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
