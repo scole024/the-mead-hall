@@ -57,14 +57,15 @@ For they are mostly no longer funded.
 
 <br> <br>
 
+\*\*
 <p style="color:blue">
-**Free tip of the day, for anyone wanting to use GitHub Pages and
-RMarkdown:**
+Free tip of the day, for anyone wanting to use GitHub Pages and
+RMarkdown:
 </p>
 
-you can easily convert the Rmd documents to md documents by including
-the following “output: github-document” at the top of the document, like
-so:
+\*\* you can easily convert the Rmd documents to md documents by
+including the following “output: github-document” at the top of the
+document, like so:
 
 ``` r
 ---
