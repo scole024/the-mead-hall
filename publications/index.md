@@ -31,10 +31,10 @@ addition to wanting to continue to share these works, they serve as a
 reminder to download your work so that you don’t lose them as the
 internet decays!!
 
-Cole, Sarah, “Project Paperclip: German Scientists and the United States
-After WWII,” *US History Scene*, August 23, 2013,
-<https://web.archive.org/web/20130908165805/http://www.ushistoryscene.com/uncategorized/projectpaperclip/>
+- Cole, Sarah, “Project Paperclip: German Scientists and the United
+  States After WWII,” *US History Scene*, August 23, 2013,
+  <https://web.archive.org/web/20130908165805/http://www.ushistoryscene.com/uncategorized/projectpaperclip/>
 
-Cole, Sarah, “The Post-WWII American Labor Movement: A Struggle for
-Sheer Existence,” *US History Scene*, September 27, 2013,
-<https://web.archive.org/web/20131011054542/http://www.ushistoryscene.com/uncategorized/amlaborwwii/>
+- Cole, Sarah, “The Post-WWII American Labor Movement: A Struggle for
+  Sheer Existence,” *US History Scene*, September 27, 2013,
+  <https://web.archive.org/web/20131011054542/http://www.ushistoryscene.com/uncategorized/amlaborwwii/>
