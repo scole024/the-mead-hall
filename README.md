@@ -58,14 +58,10 @@ For they are mostly no longer funded.
 
 <br> <br>
 
-<p style="color:blue">
-<strong>Free tip of the day, for anyone wanting to use GitHub Pages and
-RMarkdown:
-</p>
-
-</strong> you can easily convert the Rmd documents to md documents by
-including the following “output: github-document” at the top of the
-document, like so:
+<span style="color:blue">*Free tip of the day, for anyone wanting to use
+GitHub Pages and RMarkdown:*</span> you can easily convert the Rmd
+documents to md documents by including the following “output:
+github-document” at the top of the document, like so:
 
 ``` r
 ---
