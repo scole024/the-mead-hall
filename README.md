@@ -52,10 +52,6 @@ style="width:0.88em;height:1em" /> <img
 src="README_files/figure-gfm/fa-icon-298469a7cecd82cdaea4397cf2e5a035.svg"
 style="width:1.25em;height:1em" />
 
-### Look upon my works ye mighty and despair!
-
-For they are mostly no longer funded.
-
 <br> <br>
 
 <span style="color:blue">*Free tip of the day, for anyone wanting to use
