@@ -1,4 +1,4 @@
-The Mead Hall
+Data \| Culture \| History
 ================
 
 ### Data \| Culture \| History
@@ -53,16 +53,6 @@ style="width:0.88em;height:1em" /> <img
 src="README_files/figure-gfm/fa-icon-298469a7cecd82cdaea4397cf2e5a035.svg"
 style="width:1.25em;height:1em" />
 
-<br> <br>
-
-<span style="color:blue">*Free tip of the day, for anyone wanting to use
-GitHub Pages and RMarkdown:*</span> you can easily convert the Rmd
-documents to md documents by including the following “output:
-github-document” at the top of the document, like so:
-
-``` r
----
-title: "Insert fun title here!"
-output: github-document
----
-```
+**Feel free to browse my publications and visualizations (vizzes),
+available on the left-hand side bar. The blog is still under
+construction - stay tuned!**

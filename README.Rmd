@@ -1,5 +1,5 @@
 ---
-title: "The Mead Hall"
+title: "Data | Culture | History"
 output: github_document
 ---
 
@@ -30,16 +30,4 @@ library(fontawesome)
 And because the [fontawesome](https://rstudio.github.io/fontawesome/articles/icon-reference.html) package is amazing, here are some other icons matching my vibe:
 `r fa("mountain-city", fill = "black")` `r fa("mug-hot", fill = "black")` `r fa("tree", fill = "black")` `r fa("spaghetti-monster-flying", fill = "black")`
 
-
-<br>
-<br>
-
-<span style="color:blue">*Free tip of the day, for anyone wanting to use GitHub Pages and RMarkdown:*</span> you can easily convert the Rmd documents to md documents by including the following "output: github-document" at the top of the document, like so:
-
-```{r github pages, eval=FALSE, echo=TRUE}
----
-title: "Insert fun title here!"
-output: github-document
----
-  
-```
+**Feel free to browse my publications and visualizations (vizzes), available on the left-hand side bar. The blog is still under construction - stay tuned!**
