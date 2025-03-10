@@ -9,18 +9,22 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Public Visualizations
 
-### Work for SelectUSA:
-I created public interactive data visualizations on foreign direct investment (FDI) into the United States at the metropolitan statistical area (MSA) level from Bureau of Labor Statistics (BLS) data.
+### Work for [SelectUSA](https://www.trade.gov/selectusa):
 
-(FDI Data for States, MSAs, and Counties)[https://www.trade.gov/data-visualization/fdi-data-states-msas-and-counties] *August 2020*
+My Tableau journey started when I worked at SelectUSA (January 2020 to June 2022). One of my first projects was creating public interactive data visualizations on foreign direct investment (FDI) into the United States at the metropolitan statistical area (MSA) level from Bureau of Labor Statistics (BLS) data. Additionally, in Fall 2020, I	was able to show them off when I managed and created a webinar series on SelectUSA statistical dashboards for the State International Development Organizations, Inc. (SIDO) - and I got to (virtually) see some of my former [Maine International Trade Center](https://www.mitc.com/) coworkers in the webinars as well!
+
+[FDI Data for States, MSAs, and Counties](https://www.trade.gov/data-visualization/fdi-data-states-msas-and-counties) *(August 2020)*
 ![FDI1](FDI1.png)
 
-(MSA Investment by World Region)[https://www.trade.gov/data-visualization/msa-investment-world-region ] *August 2020*
+[MSA Investment by World Region](https://www.trade.gov/data-visualization/msa-investment-world-region) *(August 2020)
 ![FDI2](FDI2.png)
 
 
 ### Personal: 
-(Tour de France 2024)[https://public.tableau.com/app/profile/sarah.cole2864/viz/TourdeFrance2024/TourdeFrance] *June 2024*
+
+So far I've only created one personal public Tableau dashboard. Some friends convinced me to watch the *Tour de France: Unchained* Netflix series in June 2024, which got me subsequently obsessed enough to follow the 2024 Tour de France. But when I realized there was so much more that I didn't know, I decided to create a dashboard for a new watcher such as myself to follow along.
+
+[Tour de France 2024]([https://public.tableau.com/app/profile/sarah.cole2864/viz/TourdeFrance2024/TourdeFrance) *(June 2024)*
 ![Tour de France](Tour de France.png)
 
 
@@ -28,7 +32,7 @@ I created public interactive data visualizations on foreign direct investment (F
 
 ### For the USAID ones are no longer funded.
 
-The following downloaded images are from public Tableau dashboards I created/managed during my time at USAID Data Services. They were publically available until February 2025.
+During my time as an Economist for USAID Data Services (July 2022 to February 2025), I was responsible for two public dashboards, which were publicly available until February 2025. In addition to these dashboards, I was responsible for creating and maintaining internal dashboards for the USAID Data Services Training Team and the USAID Mission in Zimbabwe. The following are downloaded images of the dashboards before they were removed.
 
 **Evaluation Registry Dashboard:** *January 2025* I managed the FY2023 update of the Evaluation Registry Dashboard, which provided an easy way to access and analyze USAID evaluations by country, sector, year, and type of evaluation (impact or performance).
 
