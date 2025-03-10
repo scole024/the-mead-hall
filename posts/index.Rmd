@@ -1,0 +1,111 @@
+---
+title: "blog under construction"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+```{r introduction, echo=FALSE}
+library(fontawesome)
+
+```
+
+<br>
+<br>
+<br>
+<br>
+
+**What are you doing here?** 
+
+**Go back to the [main page](https://scole024.github.io/the-mead-hall/).**
+
+**I think you're lost.**
+
+**Nothing to see here.** `r fa("face-meh-blank", fill = "black")`
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+**You're still here?!**
+
+**You're a persistent little fella aren't you.**`r fa("person-hiking", fill = "black")`
+
+**The blog is under construction!!** `r fa("person-digging", fill = "black")`
+
+**Go bother Sarah and peer pressure her to hurry up and write.**
+
+**You can probably ply her with a cup of coffee or something.**
+
+**Oh and remind her that it's better to publish something imperfect than nothing at all.**
+
+**Now, shoo!!** `r fa("person-through-window", fill = "black")`
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+**I told you, go away!! Or I shall taunt you a second time!!** `r fa("far fa-chess-knight", fill = "black")`
