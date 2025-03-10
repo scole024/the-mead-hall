@@ -4,7 +4,7 @@ Visualizations
 ## Public Visualizations
 
 Personal:
-<iframe align = "center" width = "800" height = "800" src="https://public.tableau.com/views/TourdeFrance2024/TourdeFrance?publish=yes"/>
+<iframe align = "center" width = "800" height = "800" src="https://public.tableau.com/views/TourdeFrance2024/TourdeFrance?:publish=yes&:embed=true&:origin=viz_share_link"/>
 
 ## Look upon my works, ye Mighty, and despair!
 
