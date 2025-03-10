@@ -22,7 +22,7 @@ Counties](https://www.trade.gov/data-visualization/fdi-data-states-msas-and-coun
 
 [MSA Investment by World
 Region](https://www.trade.gov/data-visualization/msa-investment-world-region)
-\*(August 2020) ![FDI2](FDI2.png)
+*(August 2020)* ![FDI2](FDI2.png)
 
 ### Personal:
 
@@ -34,20 +34,27 @@ I didn’t know, I decided to create a dashboard for a new watcher such as
 myself to follow along.
 
 [Tour de France
-2024](%5Bhttps://public.tableau.com/app/profile/sarah.cole2864/viz/TourdeFrance2024/TourdeFrance)
+2024](https://public.tableau.com/app/profile/sarah.cole2864/viz/TourdeFrance2024/TourdeFrance)
 *(June 2024)* ![Tour de France](Tour%20de%20France.png)
 
-## Look upon my works, ye Mighty, and despair!
+After some constructive feedback, I created an updated dashboard with
+stage win information as well.
 
-### For the USAID ones are no longer funded.
+[Tour de France 2024 - updated with stage
+wins](https://public.tableau.com/app/profile/sarah.cole2864/viz/TourdeFrance2024-UpdatedwithStageWins/TourdeFrance)
+![Stage Wins](Tour%20de%20France%202.png)
+
+## Look upon my (USAID) works, ye Mighty, and despair!
+
+### For these are no longer funded.
 
 During my time as an Economist for USAID Data Services (July 2022 to
 February 2025), I was responsible for two public dashboards, which were
 publicly available until February 2025. In addition to these dashboards,
 I was responsible for creating and maintaining internal dashboards for
-the USAID Data Services Training Team and the USAID Mission in Zimbabwe.
-The following are downloaded images of the dashboards before they were
-removed.
+the USAID Data Services Training Team and the USAID Mission in Zimbabwe,
+among other ad hoc visualizations I was responsible for. The following
+are downloaded images of the dashboards before they were removed.
 
 **Evaluation Registry Dashboard:** *January 2025* I managed the FY2023
 update of the Evaluation Registry Dashboard, which provided an easy way
@@ -69,7 +76,9 @@ monitored selected indicators of digital growth across countries with
 available data. I created a graph comparing the indicators between base
 years and available years selected by the user. Countries receiving
 USAID assistance are marked, and countries by region are highlighted by
-color.
+color. I have included select indicator visualizations. And if you
+haven’t dealt with sheet swapping and parameter locations, I hope you
+lead a blessed life and never do!
 
 Active Mobile Money Agent Outlets (Per 100,000 Adults), Base Year 2017:
 ![DECA 1](DECA%201.png) E-Government Development Index Score (0-1), Base

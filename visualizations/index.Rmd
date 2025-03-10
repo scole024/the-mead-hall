@@ -16,7 +16,7 @@ My Tableau journey started when I worked at SelectUSA (January 2020 to June 2022
 [FDI Data for States, MSAs, and Counties](https://www.trade.gov/data-visualization/fdi-data-states-msas-and-counties) *(August 2020)*
 ![FDI1](FDI1.png)
 
-[MSA Investment by World Region](https://www.trade.gov/data-visualization/msa-investment-world-region) *(August 2020)
+[MSA Investment by World Region](https://www.trade.gov/data-visualization/msa-investment-world-region) *(August 2020)*
 ![FDI2](FDI2.png)
 
 
@@ -24,15 +24,19 @@ My Tableau journey started when I worked at SelectUSA (January 2020 to June 2022
 
 So far I've only created one personal public Tableau dashboard. Some friends convinced me to watch the *Tour de France: Unchained* Netflix series in June 2024, which got me subsequently obsessed enough to follow the 2024 Tour de France. But when I realized there was so much more that I didn't know, I decided to create a dashboard for a new watcher such as myself to follow along.
 
-[Tour de France 2024]([https://public.tableau.com/app/profile/sarah.cole2864/viz/TourdeFrance2024/TourdeFrance) *(June 2024)*
+[Tour de France 2024](https://public.tableau.com/app/profile/sarah.cole2864/viz/TourdeFrance2024/TourdeFrance) *(June 2024)*
 ![Tour de France](Tour de France.png)
 
+After some constructive feedback, I created an updated dashboard with stage win information as well.
 
-## Look upon my works, ye Mighty, and despair!
+[Tour de France 2024 - updated with stage wins](https://public.tableau.com/app/profile/sarah.cole2864/viz/TourdeFrance2024-UpdatedwithStageWins/TourdeFrance)
+![Stage Wins](Tour de France 2.png)
 
-### For the USAID ones are no longer funded.
+## Look upon my (USAID) works, ye Mighty, and despair!
 
-During my time as an Economist for USAID Data Services (July 2022 to February 2025), I was responsible for two public dashboards, which were publicly available until February 2025. In addition to these dashboards, I was responsible for creating and maintaining internal dashboards for the USAID Data Services Training Team and the USAID Mission in Zimbabwe. The following are downloaded images of the dashboards before they were removed.
+### For these are no longer funded.
+
+During my time as an Economist for USAID Data Services (July 2022 to February 2025), I was responsible for two public dashboards, which were publicly available until February 2025. In addition to these dashboards, I was responsible for creating and maintaining internal dashboards for the USAID Data Services Training Team and the USAID Mission in Zimbabwe, among other ad hoc visualizations I was responsible for. The following are downloaded images of the dashboards before they were removed.
 
 **Evaluation Registry Dashboard:** *January 2025* I managed the FY2023 update of the Evaluation Registry Dashboard, which provided an easy way to access and analyze USAID evaluations by country, sector, year, and type of evaluation (impact or performance).
 
@@ -48,7 +52,7 @@ Sector View
 
 
 
-**Digital Ecosystem Country Assessment (DECA) Dashboard:** *January 2023* I created the Monitoring, Evaluation, and Learning tab, which monitored selected indicators of digital growth across countries with available data. I created a graph comparing the indicators between base years and available years selected by the user. Countries receiving USAID assistance are marked, and countries by region are highlighted by color.
+**Digital Ecosystem Country Assessment (DECA) Dashboard:** *January 2023* I created the Monitoring, Evaluation, and Learning tab, which monitored selected indicators of digital growth across countries with available data. I created a graph comparing the indicators between base years and available years selected by the user. Countries receiving USAID assistance are marked, and countries by region are highlighted by color. I have included select indicator visualizations. And if you haven't dealt with sheet swapping and parameter locations, I hope you lead a blessed life and never do!
 
 Active Mobile Money Agent Outlets (Per 100,000 Adults), Base Year 2017:
 ![DECA 1](DECA 1.png)
