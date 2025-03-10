@@ -31,10 +31,6 @@ And because the [fontawesome](https://rstudio.github.io/fontawesome/articles/ico
 `r fa("mountain-city", fill = "black")` `r fa("mug-hot", fill = "black")` `r fa("tree", fill = "black")` `r fa("spaghetti-monster-flying", fill = "black")`
 
 
-### Look upon my works ye mighty and despair!
-
-For they are mostly no longer funded.
-
 <br>
 <br>
 

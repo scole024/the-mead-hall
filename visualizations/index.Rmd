@@ -1,0 +1,27 @@
+---
+title: "Visualizations"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Public Visualizations
+
+
+
+Personal:
+<iframe align = "center" width = "1000" height = "1000" src="https://public.tableau.com/profile/poldham#!/vizhome/MySecretPlanforWorldDomination/Historia1?publish=yes"/>
+
+## Look upon my works, ye Mighty, and despair!
+
+### For the USAID ones are no longer funded.
+
+Downloaded images of the public Tableau dashboards I created/managed during my time at USAID Data Services.
+
+**Digital Ecosystem Country Assessment (DECA) Dashboard:** I created the Monitoring, Evaluation, and Learning tab, which monitored selected indicators of digital growth across countries with available data. I created a graph comparing the indicators between base years and available years selected by the user. Countries receiving USAID assistance are marked, and countries by region are highlighted by color.
+
+Active Mobile Money Agent Outlets (Per 100,000 Adults), Base Year 2017:
+![DECA 1](images/DECA 1.png)
+
