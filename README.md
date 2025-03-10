@@ -17,7 +17,7 @@ of experience** in qualitative and quantitative data analysis.
 src="README_files/figure-gfm/fa-icon-d436c5e53b6dbb58805cf5367b42e824.svg"
 style="width:1.25em;height:1em" /> The best part of my jobs has been
 helping organizations in the public, private, and nonprofit sectors to
-**collect and analyze the data for decision making.**
+**collect and analyze data for decision making.**
 
 <img
 src="README_files/figure-gfm/fa-icon-4f63acd21b7d3c60d5e02848fb5faf9f.svg"
