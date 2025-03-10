@@ -19,7 +19,7 @@ library(fontawesome)
 
 `r fa("magnifying-glass-chart", fill = "blue")` I am a researcher with over **10 years of experience** in qualitative and quantitative data analysis.
 
-`r fa("people-carry-box", fill = "green")` The best part of my jobs has been helping organizations in the public, private, and nonprofit sectors to **collect and analyze the data for decision making.**
+`r fa("people-carry-box", fill = "green")` The best part of my jobs has been helping organizations in the public, private, and nonprofit sectors to **collect and analyze data for decision making.**
 
 `r fa("pen-to-square", fill = "black")` I have experience in various work environments: **federal government contracting** (USAID and the Department of Commerce), **state-level public-private partnerships** (the Maine International Trade Center), and **domestic and international nonprofits** (Democracy Fund, the Carter Center).
 
