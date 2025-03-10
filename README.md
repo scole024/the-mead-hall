@@ -1,4 +1,4 @@
-Data \| Culture \| History
+Sarah Cole
 ================
 
 ### Data \| Culture \| History

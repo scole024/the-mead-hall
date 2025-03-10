@@ -1,5 +1,5 @@
 ---
-title: "Data | Culture | History"
+title: "Sarah Cole"
 output: github_document
 ---
 
