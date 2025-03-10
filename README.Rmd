@@ -15,7 +15,7 @@ library(fontawesome)
 
 ```
 
-`r fa("dragon", fill = "steelblue")` Hello and welcome! My name is **Sarah Cole.**
+`r fa("dragon", fill = "purple")` Hello and welcome! My name is **Sarah Cole.**
 
 `r fa("magnifying-glass-chart", fill = "blue")` I am a researcher with over **10 years of experience** in qualitative and quantitative data analysis.
 

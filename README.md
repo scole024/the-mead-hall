@@ -4,7 +4,7 @@ The Mead Hall
 ### Data \| Culture \| History
 
 <img
-src="README_files/figure-gfm/fa-icon-3b674253414300f2d00355d205b11e0f.svg"
+src="README_files/figure-gfm/fa-icon-663501d563913d68ed178edd8cdebfc7.svg"
 style="width:1.25em;height:1em" /> Hello and welcome! My name is **Sarah
 Cole.**
 
