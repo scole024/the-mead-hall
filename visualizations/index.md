@@ -1,0 +1,31 @@
+Visualizations
+================
+
+## Public Visualizations
+
+Personal:
+<iframe align = "center" width = "1000" height = "1000" src="https://public.tableau.com/profile/poldham#!/vizhome/MySecretPlanforWorldDomination/Historia1?publish=yes"/>
+
+## Look upon my works, ye Mighty, and despair!
+
+### For the USAID ones are no longer funded.
+
+Downloaded images of the public Tableau dashboards I created/managed
+during my time at USAID Data Services.
+
+**Digital Ecosystem Country Assessment (DECA) Dashboard:** I created the
+Monitoring, Evaluation, and Learning tab, which monitored selected
+indicators of digital growth across countries with available data. I
+created a graph comparing the indicators between base years and
+available years selected by the user. Countries receiving USAID
+assistance are marked, and countries by region are highlighted by color.
+
+Active Mobile Money Agent Outlets (Per 100,000 Adults), Base Year 2017:
+![DECA 1](DECA%201.png) E-Government Development Index Score (0-1), Base
+Year 2018: ![DECA 2](DECA%202.png)
+
+Freedom on the Net: Overall Score (0-100), Base Year 2019: ![DECA
+3](DECA%203.png)
+
+Global Competitiveness Index: Competition in Network Services, Value
+(1-7), Base Year: 2018 ![DECA 4](DECA%204.png)
