@@ -30,4 +30,4 @@ library(fontawesome)
 And because the [fontawesome](https://rstudio.github.io/fontawesome/articles/icon-reference.html) package is amazing, here are some other icons matching my vibe:
 `r fa("mountain-city", fill = "black")` `r fa("mug-hot", fill = "black")` `r fa("tree", fill = "black")` `r fa("spaghetti-monster-flying", fill = "black")`
 
-**Feel free to browse my publications and visualizations (vizzes), available on the left-hand side bar. The blog is still under construction - stay tuned!**
+**Feel free to browse my publications, visualizations (vizzes), and blog (Substack), available on the left-hand side bar. Enjoy!**
