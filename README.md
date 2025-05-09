@@ -53,6 +53,5 @@ style="width:0.88em;height:1em" /> <img
 src="README_files/figure-gfm/fa-icon-298469a7cecd82cdaea4397cf2e5a035.svg"
 style="width:1.25em;height:1em" />
 
-**Feel free to browse my publications and visualizations (vizzes),
-available on the left-hand side bar. The blog is still under
-construction - stay tuned!**
+**Feel free to browse my publications, visualizations (vizzes), and blog (on Substack),
+available on the left-hand side bar.**
