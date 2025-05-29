@@ -22,7 +22,16 @@ My Tableau journey started when I worked at SelectUSA (January 2020 to June 2022
 
 ### Personal: 
 
-So far I've only created one personal public Tableau dashboard. Some friends convinced me to watch the *Tour de France: Unchained* Netflix series in June 2024, which got me subsequently obsessed enough to follow the 2024 Tour de France. But when I realized there was so much more that I didn't know, I decided to create a dashboard for a new watcher such as myself to follow along.
+If you haven't checked it out yet, I started a new blog, [The Mead Hall](https://themeadhall.substack.com/), over on Substack in which I discuss data and culture. I've been experimenting with both static and interactive dashboards, and I present two interactive dashboards below (with more context in my blog):
+
+[The Timeline of Dracula vs. Dracula Daily](https://public.tableau.com/app/profile/sarah.cole2864/viz/DraculavDraculaDaily/DvDD) *(April 2025)*
+![D v DD](D_v_DD_timeline_2.png)
+
+[Eurovision Participant Countries' Votes and Entries Based on Language](https://public.tableau.com/app/profile/sarah.cole2864/viz/EurovisionLanguages/ESCTop20)
+![ESC Votes Language](ESC Votes vs. Entries.png)
+
+
+In addition to the visualizations in the Mead Hall, I created a personal public Tableau dashboard in summer 2024. Some friends convinced me to watch the *Tour de France: Unchained* Netflix series in June 2024, which got me subsequently obsessed enough to follow the 2024 Tour de France. But when I realized there was so much more that I didn't know, I decided to create a dashboard for a new watcher such as myself to follow along.
 
 [Tour de France 2024](https://public.tableau.com/app/profile/sarah.cole2864/viz/TourdeFrance2024/TourdeFrance) *(June 2024)*
 ![Tour de France](Tour de France.png)
